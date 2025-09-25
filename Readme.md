@@ -2,6 +2,7 @@
 Você deverá desenvolver, em Python, um sistema simples de controle de vendas em uma loja fictícia, utilizando **variáveis**, estruturas condicionais **(if/else)**, laços de repetição **(for e while)** e funções **(def)**.
 
 O programa será executado no terminal e deverá conter as seguintes funcionalidades:
+
 ### Menu principal (em loop) com opções:
 ##### Cadastrar produto 
 nome, preço e quantidade em estoque.
